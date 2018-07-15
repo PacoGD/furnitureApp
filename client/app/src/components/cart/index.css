@@ -1,0 +1,14 @@
+.cart-image{
+    max-width: 50%;
+    max-height: 10%;
+}
+.pay{
+    display:flex;
+}
+.total{
+    margin-left: 5%;
+    margin-right: 2%;
+}
+.price{
+    margin-right: 2%;
+}

@@ -1,0 +1,15 @@
+.order {
+    background-image: url("https://www.atrapamuebles.com/5656-large_default/mueble-de-salon-alida-mediterraneo.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    position: absolute;
+    right: 0;
+    left: 0;
+    top: 90px;
+    bottom: 0;
+}
+.order{
+    margin: auto;
+    text-align: center;
+}
